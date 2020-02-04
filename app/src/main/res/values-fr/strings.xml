@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma Forme</string>
+    <string name="name">Nom</string>
+    <string name="email">Courrier</string>
+    <string name="phone">N Telephone</string>
+    <string name="cell">N Portable</string>
+    <string name="message">Message</string>
+    <string name="send">Envoie</string>
+    <string name="show_alert">Montre Alert</string>
+    <string name="open_new_page">Ouvrir Nouvelle Page</string>
+</resources>
